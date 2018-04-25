@@ -1,0 +1,10 @@
+c:\users\staceyfayers\documents\visual studio 2015\Projects\LicenseKeyGen\LicenseKeyGen\bin\Debug\LicenseKeyGen.exe.config
+c:\users\staceyfayers\documents\visual studio 2015\Projects\LicenseKeyGen\LicenseKeyGen\bin\Debug\LicenseKeyGen.exe
+c:\users\staceyfayers\documents\visual studio 2015\Projects\LicenseKeyGen\LicenseKeyGen\bin\Debug\LicenseKeyGen.pdb
+c:\users\staceyfayers\documents\visual studio 2015\Projects\LicenseKeyGen\LicenseKeyGen\obj\Debug\LicenseKeyGen.csprojResolveAssemblyReference.cache
+c:\users\staceyfayers\documents\visual studio 2015\Projects\LicenseKeyGen\LicenseKeyGen\obj\Debug\LicenseKeyGen.Form1.resources
+c:\users\staceyfayers\documents\visual studio 2015\Projects\LicenseKeyGen\LicenseKeyGen\obj\Debug\LicenseKeyGen.Properties.Resources.resources
+c:\users\staceyfayers\documents\visual studio 2015\Projects\LicenseKeyGen\LicenseKeyGen\obj\Debug\LicenseKeyGen.csproj.GenerateResource.Cache
+c:\users\staceyfayers\documents\visual studio 2015\Projects\LicenseKeyGen\LicenseKeyGen\obj\Debug\LicenseKeyGen.exe
+c:\users\staceyfayers\documents\visual studio 2015\Projects\LicenseKeyGen\LicenseKeyGen\obj\Debug\LicenseKeyGen.pdb
+c:\users\staceyfayers\documents\visual studio 2015\Projects\LicenseKeyGen\LicenseKeyGen\obj\Debug\LicenseKeyGen.TrustInfo.xml
